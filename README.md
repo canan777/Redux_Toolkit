@@ -27,7 +27,9 @@
 ## Kurulum 
 
 🛠 Kütüphaneler kurulmalı
+
 🛠 npm install @reduxjs/toolkit
+
 🛠 npm install react-redux
 
 ## Slice
