@@ -1,4 +1,5 @@
 # Redux Toolkit
+The project includes sample applications built using the Redux Toolkit library. *A simple counter system and CRUD structure have been created using the Toolkit. *It features a basic counter system with a reset button, an increment button, and a decrement button. The application also allows theme switching. *Utilizing the CRUD structure, the project includes functionality to collect, save, edit, and delete data as needed in a listing. Theme switching is also available in this context. *A user-friendly system has been created for users to easily implement in various listing and planning tasks.
 <img src="./public/Redux_Toolkit.gif"/>
 
 
