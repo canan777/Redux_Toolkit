@@ -1,4 +1,8 @@
 # Redux Toolkit
+<img src="./public/Redux_Toolkit.gif"/>
+
+
+# Redux Toolkit
 
 - Klasik Redux'a göre daha az kod içerir.
 
