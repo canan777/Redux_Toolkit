@@ -10,7 +10,7 @@
 
 ✅A user-friendly system has been created for users to easily implement in various listing and planning tasks.
 
-## 🛠 Technologies Used:
+## 🛠 technologies Used:
 📌 React
 📌 React Router Dom
 📌 React Redux
