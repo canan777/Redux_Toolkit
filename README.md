@@ -10,6 +10,14 @@
 
 ✅A user-friendly system has been created for users to easily implement in various listing and planning tasks.
 
+## 🛠 Technologies Used:
+📌 React
+📌 React Router Dom
+📌 React Redux
+📌 React Toolkit
+📌 Bootstrap
+📌 Uuid
+
 
 <img src="./public/Redux_Toolkit.gif"/>
 
