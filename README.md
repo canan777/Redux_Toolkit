@@ -12,10 +12,15 @@
 
 ## 🛠 technologies used:
 📌 React
+
 📌 React Router Dom
+
 📌 React Redux
+
 📌 React Toolkit
+
 📌 Bootstrap
+
 📌 Uuid
 
 
